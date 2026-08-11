@@ -2,9 +2,6 @@
 
 **Timeline:** August 2026 – March 2027  
 **Primary objective:** Become competitive for a **mid-level or higher systems-engineering role in physics-heavy technology**.
-**Target workload:**  
-- **Months 1–2:** ~2–3 hours/week  
-- **Months 3–8:** ~7–9 hours/week  
 
 ## Target Domains
 
