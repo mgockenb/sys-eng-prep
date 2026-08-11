@@ -1,177 +1,205 @@
-# 8-Month Systems Engineering Transition Plan
+# 8-Month Physics-Heavy Systems Engineering Transition Plan
 
 **Timeline:** August 2026 – March 2027  
-**Primary objective:** Become competitive for a **medical-device systems engineering role** while continuing RA/QA consulting throughout.  
+**Primary objective:** Become competitive for a **mid-level or higher systems-engineering role in physics-heavy technology**.
 **Target workload:**  
 - **Months 1–2:** ~2–3 hours/week  
 - **Months 3–8:** ~7–9 hours/week  
 
+## Target Domains
+
+**Primary interests**
+- Quantum technology
+- Photonics
+
+**Secondary / adjacent domains**
+- Scientific instrumentation
+- Sensing and imaging
+- Aerospace / space
+- Advanced energy
+- Semiconductor equipment
+- Other physics-heavy technical systems
+
+**Medical technology**
+- Valid bridge/fallback
+- Not the intended long-term specialization
+
+## Geographic Preferences
+
+- **Vitoria-Gasteiz:** onsite acceptable
+- **Bilbao:** hybrid acceptable, approximately 1–2 days/week
+- **San Sebastián:** similar hybrid arrangement acceptable
+- **Elsewhere in Spain / Europe:** remote or practical hybrid arrangements preferred
+
+## Workload
+
+- **August–September:** ~2–3 hours/week
+- **October–March:** ~7–9 hours/week
+- RA/QA consulting continues throughout
+
 ---
 
-## Overall Strategy
+# Guiding Principle
 
-The goal is not to retrain from zero. The goal is to convert existing experience in regulated medical software, requirements, risk, V&V, product lifecycle, architecture review, deployment, and technical leadership into a clear **systems engineering profile**, while filling the most important gaps:
+The first two months are a **market-validation phase**, not a training phase.
 
-1. Formal systems engineering methods and vocabulary
-2. Requirements engineering
-3. Architecture / MBSE / SysML
-4. Hardware-software integration
-5. Physical-system experience
-6. INCOSE ASEP/CSEP signaling
-7. A systems-engineering portfolio
-8. A focused medical-device systems-engineering job search
+The goal is to determine:
 
-The RA/QA consultancy should support this transition whenever client work genuinely overlaps with systems engineering.
+1. Which physics-heavy sectors are realistically accessible
+2. Which roles match existing experience
+3. Which skill gaps recur across attractive jobs
+4. Which gaps are realistically fixable within six months
+5. Which gaps require years of professional experience and should not be treated as study problems
+
+The later learning plan should be changed if the validation data points in a different direction.
 
 ---
+
+# Phase I — Validate Before Investing
 
 # Month 1 — August 2026
 
-## Theme: Establish the Baseline
+## Theme: What Does the Market Actually Want?
 
 **Target workload:** ~2 hours/week
 
-The consultancy takes priority this month.
+Do almost no formal retraining this month.
 
-### Systems Engineering Tasks
+## 1. Build a Target-Role Dataset
 
-- [ ] Obtain the current INCOSE Systems Engineering Handbook.
-- [ ] Read introductory material covering:
-  - [ ] Systems thinking
-  - [ ] Lifecycle processes
-  - [ ] Stakeholder needs
-  - [ ] Requirements
-  - [ ] Architecture
-  - [ ] Verification
-  - [ ] Validation
-  - [ ] Integration
-  - [ ] Technical management
-- [ ] Create a **CSEP Experience Ledger**.
-- [ ] Reconstruct MedTrace experience chronologically from 2020–2026.
-- [ ] For each major activity, record:
-  - [ ] Dates
-  - [ ] Project/product
-  - [ ] What I personally did
-  - [ ] Relevant systems-engineering area
-  - [ ] Approximate duration
-  - [ ] Evidence/artifacts that existed
-  - [ ] Potential person who could verify it
+Collect **30 current vacancies**.
 
-### Start With These MedTrace Activities
+Suggested distribution:
 
-- [ ] Requirements definition
-- [ ] Architecture participation/review
-- [ ] Verification
-- [ ] Validation
+- [ ] 10 quantum / deep-tech roles
+- [ ] 10 photonics / optical / instrumentation roles
+- [ ] 10 adjacent systems roles in aerospace, scientific equipment, sensing, energy, semiconductor equipment, or similar fields
+
+Do not restrict the search to the literal title `Systems Engineer`.
+
+Search titles such as:
+
+- [ ] Systems Engineer
+- [ ] System Engineer
+- [ ] Systems Development Engineer
+- [ ] System Architect
+- [ ] Optical Systems Engineer
+- [ ] Instrumentation Engineer
+- [ ] Integration Engineer
+- [ ] Applications Engineer
+- [ ] Solutions Engineer
+- [ ] R&D Engineer
+- [ ] Technical Product Engineer
+- [ ] Technical Program Manager
+- [ ] Product Systems Engineer
+- [ ] Verification / Validation Engineer
+- [ ] Requirements Engineer
+
+## 2. Classify Every Vacancy
+
+Create a spreadsheet with these fields:
+
+| Field | Value |
+|---|---|
+| Company | |
+| Location | |
+| Domain | |
+| Role | |
+| Seniority | |
+| Onsite expectation | |
+| Education required | |
+| PhD required? | |
+| Systems experience | |
+| Requirements engineering | |
+| Architecture | |
+| MBSE / SysML | |
+| V&V | |
+| Integration | |
+| Electronics | |
+| Embedded systems | |
+| Optics / photonics | |
+| Quantum | |
+| Python / MATLAB | |
+| Hands-on laboratory work | |
+| Product development | |
+| Project / technical leadership | |
+| My current fit | 0–100% |
+| Biggest blocker | |
+
+## 3. Classify Skills as Green / Yellow / Red
+
+For every important requirement, assign one of these categories.
+
+### Green — Already Credible
+
+Likely examples:
+
+- [ ] Requirements
 - [ ] Risk management
-- [ ] Release management
+- [ ] Verification & validation
+- [ ] Product lifecycle development
+- [ ] Stakeholder coordination
+- [ ] Technical leadership
+- [ ] Software-intensive systems
 - [ ] Technical documentation
-- [ ] Hospital deployment
-- [ ] Lifecycle/process design
-- [ ] Stakeholder needs
-- [ ] Technical planning
+- [ ] Physics / mathematics foundation
 
-### Consulting Integration
+### Yellow — Plausible Gap to Close
 
-Create a private **Consulting SE Evidence Log**.
+Possible examples:
 
-For each client engagement, record genuine work involving:
+- [ ] Formal systems engineering
+- [ ] System architecture
+- [ ] MBSE / SysML
+- [ ] Integration engineering
+- [ ] Hardware/software interfaces
+- [ ] Python / MATLAB technical work
+- [ ] Test engineering
+- [ ] Electronics literacy
+- [ ] Optics literacy
+- [ ] Quantum systems literacy
 
-> Needs → Requirements → Risks → Architecture / Interfaces → V&V → Changes → Evidence
+### Red — Specialist Experience Not Realistically Acquired in Eight Months
 
-Do not retain proprietary client information without permission. Use sanitized descriptions when necessary.
+Examples:
 
-### Deliverable
+- [ ] 5+ years optical-system design
+- [ ] RF engineering
+- [ ] FPGA design
+- [ ] Photonic integrated circuit design
+- [ ] Cryogenics engineering
+- [ ] Quantum algorithm research
+- [ ] PhD-level experimental quantum physics
+- [ ] Deep embedded C experience
+- [ ] Senior electronics design ownership
 
-- [ ] **CSEP Experience Ledger covering MedTrace experience from 2020–2026**
+The goal is to avoid treating years of professional specialization as a study problem.
 
-### Month 1 Notes
+## 4. Start a CSEP Experience Ledger
 
-- What did I learn?
-- Which experience areas look strongest?
-- Which activities might count as direct SE experience?
-- Which former colleagues/managers could verify them?
+Begin mapping MedTrace experience:
 
----
+`Activity → Dates → What I personally did → SE category → Evidence → Potential verifier`
 
-# Month 2 — September 2026
+Do not worry yet about completing the application.
 
-## Theme: Learn the Language and Define the Target
+## Month 1 Deliverables
 
-**Target workload:** ~2–3 hours/week
+- [ ] 30-job dataset
+- [ ] Initial green / yellow / red skills map
+- [ ] Initial CSEP experience ledger
+- [ ] List of 10 particularly attractive employers
+- [ ] Initial list of recurring job titles
 
-Keep this month deliberately light.
+## Month 1 Review
 
-### Study
+### Most attractive sectors so far
 
-Read approximately 1–1.5 hours/week from the INCOSE Handbook.
+1.
+2.
+3.
 
-Focus on:
-
-- [ ] Stakeholder needs
-- [ ] Requirements engineering
-- [ ] Architecture
-- [ ] V-model / lifecycle thinking
-- [ ] Verification vs. validation
-- [ ] Risk
-- [ ] Configuration management
-
-The objective is to connect:
-
-> “What I have already done”
-
-with:
-
-> “What systems engineering calls it.”
-
-### Job-Market Research
-
-Collect **20 real medical-device systems-engineering vacancies**.
-
-Do not apply yet unless an unusually strong opportunity appears.
-
-Track the frequency of requirements such as:
-
-| Requirement | Frequency / 20 Jobs | Notes |
-|---|---:|---|
-| Requirements engineering |  |  |
-| System architecture |  |  |
-| Verification & validation |  |  |
-| Risk management |  |  |
-| SysML / MBSE |  |  |
-| Hardware/software integration |  |  |
-| IEC 60601 |  |  |
-| IEC 62304 |  |  |
-| ISO 14971 |  |  |
-| IEC 62366 |  |  |
-| DOORS / Polarion / Jama |  |  |
-| Embedded systems |  |  |
-| Electronics knowledge |  |  |
-| Mechanical knowledge |  |  |
-
-### Certification Decision Checkpoint
-
-At the end of September:
-
-- [ ] Estimate defensible direct SE months.
-- [ ] Identify at least three SE experience categories with potentially ≥12 months.
-- [ ] Identify possible references.
-- [ ] Decide whether CSEP appears realistic now.
-
-#### Decision
-
-- [ ] **CSEP path** — if approximately 60 months of defensible direct SE work can be documented
-- [ ] **ASEP path** — if the experience threshold is not yet defensible
-
-### Deliverables
-
-- [ ] CSEP preliminary eligibility decision
-- [ ] 20-job skills matrix
-- [ ] Top five skill gaps identified
-
-### Month 2 Notes
-
-**Top five gaps:**
+### Most common yellow gaps
 
 1.
 2.
@@ -179,595 +207,789 @@ At the end of September:
 4.
 5.
 
+### Most common red gaps
+
+1.
+2.
+3.
+
 ---
+
+# Month 2 — September 2026
+
+## Theme: What Actually Prevents Employers From Hiring Me?
+
+**Target workload:** ~2–3 hours/week
+
+This month should produce the evidence that determines the rest of the plan.
+
+## 1. Expand the Dataset to 50–60 Jobs
+
+Add another **20–30 vacancies**.
+
+Calculate the frequency of important requirements.
+
+| Skill / Requirement | % of Target Roles | Notes |
+|---|---:|---|
+| Requirements engineering | | |
+| Verification & validation | | |
+| System architecture | | |
+| MBSE | | |
+| SysML | | |
+| MATLAB | | |
+| Python | | |
+| Hardware integration | | |
+| Electronics | | |
+| Optics / photonics | | |
+| Quantum | | |
+| Embedded systems | | |
+| Laboratory work | | |
+| PhD | | |
+| CSEP / ASEP | | |
+| Project / technical leadership | | |
+
+## 2. Speak With Actual People
+
+Target **5–8 conversations**.
+
+Ideal contacts:
+
+- [ ] Systems engineers
+- [ ] System architects
+- [ ] R&D managers
+- [ ] Optical-systems engineers
+- [ ] Technical leads
+- [ ] Integration engineers
+- [ ] Recruiters specializing in deep tech / industrial engineering
+
+Geographic priority:
+
+1. Vitoria-Gasteiz / Álava
+2. Bilbao / Bizkaia
+3. San Sebastián / Gipuzkoa
+4. Elsewhere in Spain / Europe
+
+### Questions to Ask
+
+Use concrete questions:
+
+- [ ] Would someone with my background be considered for systems work here?
+- [ ] At what level?
+- [ ] What is the largest missing skill?
+- [ ] Does software-intensive systems experience count?
+- [ ] How much direct hardware experience would you expect?
+- [ ] How important is SysML / MBSE in your organization?
+- [ ] What does a systems engineer actually do here?
+- [ ] Which skills would you build first in my position?
+- [ ] Which job title should I be targeting?
+- [ ] What would stop you from interviewing someone with my profile?
+
+Avoid vague questions such as:
+
+> “Do you think I could become a systems engineer?”
+
+## 3. Make Test Applications
+
+Apply to **6–10 roles before substantial retraining**.
+
+Suggested mix:
+
+- [ ] 2–3 stretch roles
+- [ ] 3–4 plausible mid-level roles
+- [ ] 1–2 roles where existing experience looks unusually strong
+
+The purpose is diagnostic.
+
+Track:
+
+| Company | Role | Date | Result | Feedback / Signal |
+|---|---|---|---|---|
+| | | | | |
+
+## 4. Map Local Physics-Heavy Ecosystems
+
+Create lists of organizations around:
+
+### Vitoria / Álava
+- [ ] Companies
+- [ ] Research centers
+- [ ] Advanced manufacturing
+- [ ] Energy
+- [ ] Aerospace
+- [ ] Scientific equipment
+- [ ] Relevant university / technology-center connections
+
+### Bilbao / Bizkaia
+- [ ] Photonics
+- [ ] Sensing
+- [ ] Industrial technology
+- [ ] Energy
+- [ ] Aerospace
+- [ ] Scientific instrumentation
+
+### San Sebastián / Gipuzkoa
+- [ ] Quantum
+- [ ] Photonics
+- [ ] Nanotechnology
+- [ ] Scientific instrumentation
+- [ ] Advanced materials
+- [ ] Research spin-offs
+
+Record both employers with current vacancies and organizations with no current openings but strong strategic relevance.
+
+---
+
+# Month 2 Decision Gate
+
+At the end of September, produce a ranked list of skill gaps.
+
+## Top Five Skill Gaps
+
+1.
+2.
+3.
+4.
+5.
+
+Then answer:
+
+### A. Which gaps recur in more than ~30% of attractive jobs?
+
+-
+
+### B. Which gaps are realistically achievable within six months?
+
+-
+
+### C. Which gaps require years of professional experience rather than study?
+
+-
+
+### D. Where is my strongest entry point?
+
+-
+
+## Choose a Primary Domain
+
+- [ ] Photonics / instrumentation
+- [ ] Quantum technology
+- [ ] Broader physics-heavy systems
+
+## Choose a Secondary Domain
+
+- [ ] Photonics / instrumentation
+- [ ] Quantum technology
+- [ ] Aerospace / space
+- [ ] Energy
+- [ ] Scientific instrumentation
+- [ ] Semiconductor equipment
+- [ ] Medical / scientific technology
+- [ ] Other: __________
+
+Choose based on:
+
+> **Interest × Accessible Market × Existing Fit × Learnable Gaps**
+
+Do not necessarily choose the most interesting field if the accessible path is poor.
+
+---
+
+# Phase II — Build the Missing Systems Foundation
 
 # Month 3 — October 2026
 
-## Theme: Formal Requirements Engineering
+## Theme: Formal Systems Engineering + Requirements
 
 **Target workload:** ~7–8 hours/week
 
-### Suggested Weekly Allocation
+The exact curriculum should be adjusted based on the September gap analysis.
 
-| Activity | Hours |
+## Suggested Weekly Allocation
+
+| Activity | Hours/week |
 |---|---:|
-| Systems engineering study | 3 |
-| Requirements exercises | 2 |
-| ASEP/CSEP preparation | 1 |
-| Career research / evidence logging | 1–2 |
+| Formal systems engineering study | 3 |
+| Applied exercises | 2 |
+| CSEP / qualification analysis | 1 |
+| Market / networking | 1–2 |
 
-### Learn Requirements Engineering Formally
+## Core Systems Engineering Topics
 
 Study:
 
-- [ ] Stakeholder needs vs. requirements
-- [ ] User requirements
+- [ ] Stakeholder needs
+- [ ] Requirements engineering
+- [ ] Functional analysis
+- [ ] System boundaries
+- [ ] Interfaces
+- [ ] Verification vs. validation
+- [ ] Risk
+- [ ] Lifecycle models
+- [ ] Configuration management
+- [ ] Change management
+- [ ] Trade studies
+- [ ] Technical planning
+- [ ] Integration concepts
+
+## Use a Familiar System First
+
+Before learning unfamiliar hardware, create a sanitized systems-engineering model of a scientific software product similar to a system already understood professionally.
+
+Practice:
+
+`Need → System requirement → Subsystem requirement → Architecture → Verification`
+
+Develop:
+
+- [ ] Intended use / mission
+- [ ] Stakeholders
+- [ ] Stakeholder needs
 - [ ] System requirements
 - [ ] Subsystem requirements
-- [ ] Derived requirements
-- [ ] Interface requirements
-- [ ] Functional requirements
-- [ ] Performance requirements
-- [ ] Requirement attributes
-- [ ] Acceptance criteria
+- [ ] Interfaces
 - [ ] Verification methods
 - [ ] Traceability
-- [ ] Change impact analysis
 
-### Portfolio System
+## CSEP Decision
 
-Choose a fictional but realistic medical device.
+Complete enough of the experience ledger to decide:
 
-Recommended starting concept:
+- [ ] CSEP appears defensible
+- [ ] CSEP does not currently appear defensible
 
-> A home physiological measurement device containing sensor hardware, embedded software, communications, backend/cloud functionality, clinician UI, and patient UI.
+Do not automatically pursue ASEP if CSEP is not defensible.
 
-The device is an educational systems-engineering project, not a real clinical product.
+Certification should still pass an ROI test based on actual target jobs.
 
-Create:
+## Month 3 Deliverable
 
-- [ ] Intended use
-- [ ] Stakeholder map
-- [ ] Stakeholder needs
-- [ ] 20–30 high-level system requirements
-- [ ] Requirement IDs
-- [ ] Verification method for each requirement
-- [ ] Basic requirements traceability matrix
-
-### Requirements Tool Familiarity
-
-Develop conceptual familiarity with:
-
-- [ ] IBM DOORS / DOORS Next
-- [ ] Siemens Polarion
-- [ ] Jama Connect or equivalent
-
-Focus on:
-
-- [ ] Baselines
-- [ ] Traceability links
-- [ ] Change control
-- [ ] Requirement attributes
-- [ ] Verification linkage
-
-Do not claim professional tool experience unless you genuinely acquire it.
-
-### Deliverable
-
-- [ ] **Medical-device System Requirements Specification (SRS)**
-
-### Month 3 Retrospective
-
-- What parts felt familiar?
-- What formal SE practices were new?
-- Which requirement-writing weaknesses did I discover?
-- Can I explain requirement verification vs. system validation clearly?
+- [ ] **Formal requirements + lifecycle case study based on a familiar scientific software system**
 
 ---
 
 # Month 4 — November 2026
 
-## Theme: Architecture, MBSE, and SysML
+## Theme: Architecture and MBSE
 
 **Target workload:** ~7–9 hours/week
 
-### Suggested Weekly Allocation
+Only invest heavily in MBSE if the validation phase supports it.
 
-| Activity | Hours |
-|---|---:|
-| MBSE / SysML study | 3 |
-| Medical-device system model | 3 |
-| INCOSE study | 1 |
-| Job-market / networking work | 1–2 |
+If target jobs rarely mention MBSE/SysML, focus more heavily on architecture, interfaces, integration, and V&V instead.
 
-### Learn Systems Architecture
+## Core Architecture Topics
 
-Study:
+Learn:
 
 - [ ] System context
 - [ ] System boundaries
 - [ ] Functional decomposition
 - [ ] Logical architecture
 - [ ] Physical architecture
-- [ ] Interfaces
-- [ ] Requirement allocation
-- [ ] System behavior
-- [ ] Verification relationships
-- [ ] Architecture trade-offs
+- [ ] Subsystem allocation
+- [ ] Interface definition
+- [ ] Trade studies
+- [ ] Architecture rationale
+- [ ] Traceability
+- [ ] Verification architecture
+- [ ] Technical budgets where relevant
 
-### Learn SysML / MBSE
+## SysML / MBSE
 
-Develop working familiarity with:
+If useful to target jobs:
 
-- [ ] SysML concepts
-- [ ] SysML v2
-- [ ] Requirements representation
-- [ ] Structural modeling
-- [ ] Behavioral modeling
-- [ ] Interface modeling
-- [ ] Verification relationships
+- [ ] Learn SysML concepts
+- [ ] Learn enough SysML v2 to construct useful models
+- [ ] Understand commonly encountered SysML v1 concepts
+- [ ] Build requirement relationships
+- [ ] Build structural models
+- [ ] Build behavioral models
+- [ ] Represent interfaces
+- [ ] Connect requirements to verification
 
-Do not optimize for diagram production alone.
+Do not optimize for certification or diagram production.
 
 For every model, ask:
 
 > **What engineering decision does this model help me make?**
 
-### Extend the Portfolio Device
+## Architecture Exercise
 
-Create:
+Model a physics-heavy system containing at minimum:
 
-- [ ] System context diagram
-- [ ] Functional breakdown
-- [ ] Logical architecture
-- [ ] Physical architecture
-- [ ] Hardware/software allocation
-- [ ] Key interfaces
-- [ ] Requirements allocation
-- [ ] V&V relationships
+- [ ] Physical phenomenon / sensor
+- [ ] Electronics
+- [ ] Computing
+- [ ] Software
+- [ ] Communications / data
+- [ ] Human or external-system interaction
 
-### Deliverable
+Be able to explain:
 
-- [ ] **Version 1 of an MBSE medical-device architecture model**
+- Why is the system decomposed this way?
+- Which interfaces are critical?
+- Which requirements drive architecture?
+- Which decisions involve trade-offs?
+- How will the system be verified?
 
-### Month 4 Retrospective
+## Month 4 Deliverable
 
-- Can I explain the difference between functional, logical, and physical architecture?
-- Can I identify key system interfaces?
-- Can I trace a stakeholder need into architecture and verification?
-- Which SysML concepts do I still find unclear?
+- [ ] **One coherent systems-architecture package**
 
 ---
+
+# Phase III — Add Domain Depth
 
 # Month 5 — December 2026
 
-## Theme: Cross the Software/Hardware Boundary
+## Theme: Build Depth in the Domain That Won Validation
 
 **Target workload:** ~7–9 hours/week
 
-This month directly addresses the lack of professional physical-device experience.
+This month branches based on the August–September evidence.
 
-## Build a Small Physical System
+## Track A — Photonics / Instrumentation Wins Validation
 
-The project does **not** need to be a real medical device.
+Prioritize:
 
-Build an educational instrumentation prototype with a structure such as:
-
-> Sensor → Signal acquisition → Microcontroller → Communication → Software application → Data processing/display
-
-Possible project types:
-
-- [ ] Optical measurement system
-- [ ] Temperature measurement/control system
-- [ ] Force or pressure measurement system
-- [ ] Pulse/optical sensor demonstrator
-- [ ] Another comparable instrumentation system
-
-### Do the Systems Engineering First
-
-Before implementing:
-
-- [ ] Define intended function
-- [ ] Write system requirements
-- [ ] Develop architecture
-- [ ] Define interfaces
-- [ ] Perform preliminary hazard analysis
-- [ ] Create a simple FMEA
-- [ ] Perform at least one trade study
-- [ ] Create a V&V plan
-- [ ] Define acceptance criteria
-
-Then implement the prototype.
-
-### Hardware Literacy
-
-Learn enough to communicate effectively with hardware specialists:
-
-- [ ] Sensors and transducers
-- [ ] ADC/DAC
-- [ ] Signal conditioning
-- [ ] Microcontrollers
-- [ ] I²C
-- [ ] SPI
-- [ ] UART
-- [ ] Power basics
-- [ ] Grounding/noise
+- [ ] Geometric optics refresher
+- [ ] Physical optics refresher
+- [ ] Light sources
+- [ ] Photodetectors
+- [ ] Fiber optics
+- [ ] Spectroscopy concepts
+- [ ] Noise and signal-to-noise ratio
+- [ ] Detector signal chains
+- [ ] Optical alignment concepts
 - [ ] Calibration
-- [ ] Tolerance/error budgets
-- [ ] Basic PCB concepts
-- [ ] Physical interfaces
+- [ ] Error budgets
+- [ ] Python / MATLAB modeling
+- [ ] Basic optical component selection
+- [ ] Optical/electrical/software interfaces
 
-The goal is **interface competence**, not becoming an electrical engineer.
+The objective is not to become an optical physicist.
 
-### Consulting Integration
+The objective is to become a systems engineer who can reason credibly about optical systems and work effectively with specialists.
 
-If consulting exposes you to physical-device documentation, examine it through a systems lens:
+## Track B — Quantum Wins Validation
 
-- [ ] How are requirements decomposed?
-- [ ] How does risk connect to design?
-- [ ] How does verification trace to requirements?
-- [ ] How are subsystem interfaces specified?
-- [ ] How are design changes propagated?
+Prioritize:
 
-### Deliverable
+- [ ] Quantum information fundamentals
+- [ ] Qubits
+- [ ] Gates
+- [ ] Circuits
+- [ ] Measurement
+- [ ] Noise and decoherence concepts
+- [ ] Qiskit
+- [ ] Basic quantum algorithms
+- [ ] Hybrid classical/quantum workflows
+- [ ] Current hardware constraints
+- [ ] Quantum-system architecture vocabulary
+- [ ] Control-system concepts
+- [ ] Cryogenic / optical / RF interfaces at a conceptual level, depending on hardware modality
 
-- [ ] **Working hardware/software prototype**
+Do **not** attempt to become a quantum algorithm researcher in six months.
 
-### Month 5 Retrospective
+The target is:
 
-- What hardware concepts caused difficulty?
-- What integration problem occurred?
-- Which architecture decisions changed after implementation?
-- What would I do differently on a professional product?
+> **Technically credible systems engineer working around quantum technology.**
+
+## Track C — Broader Physics-Heavy Systems Wins Validation
+
+Build the curriculum directly from the top recurring gaps in the job dataset.
+
+Possible topics:
+
+- [ ] Sensors
+- [ ] Electronics
+- [ ] Signal acquisition
+- [ ] Instrumentation
+- [ ] Embedded systems literacy
+- [ ] Controls
+- [ ] Reliability
+- [ ] Error budgets
+- [ ] Test engineering
+- [ ] Python / MATLAB
+- [ ] Hardware/software interfaces
+- [ ] Laboratory practice
+
+## Secondary Domain
+
+Spend approximately **1 hour/week** maintaining literacy in the second-most attractive domain.
+
+## Month 5 Deliverable
+
+- [ ] **Concise technical notebook/reference explaining the chosen domain at subsystem and interface level**
 
 ---
 
+# Phase IV — Demonstrate It
+
 # Month 6 — January 2027
 
-## Theme: Verification, Validation, and Portfolio Evidence
+## Theme: Build One Physics-Heavy System Project
 
 **Target workload:** ~7–9 hours/week
 
-### Suggested Weekly Allocation
+Choose the project based on validation results.
 
-| Activity | Hours |
-|---|---:|
-| V&V / integration project work | 3 |
-| INCOSE / certification study | 2 |
-| Portfolio development | 1–2 |
-| Networking / job research | 1–2 |
+A good default for photonics/instrumentation would be:
 
-### Complete the Prototype as a System
+> **Optical measurement / instrumentation system**
 
-Perform:
+Example architecture:
 
-- [ ] Subsystem testing
-- [ ] Interface testing
-- [ ] System integration
-- [ ] Requirement verification
-- [ ] Calibration/error assessment
-- [ ] Risk-control verification
-- [ ] Failed-test handling
-- [ ] Configuration identification
-- [ ] Final validation rationale
+`Light source → Optical path/sample → Detector → Analog/digital acquisition → Controller → Data link → Python software → Analysis`
 
-### Create Traceability
+The goal is not to build an impressive gadget.
 
-Build a traceability chain such as:
+The goal is to demonstrate **systems-engineering thinking across hardware, software, physics, interfaces, and V&V**.
 
-> **Need → Requirement → Architecture Element → Risk → Test → Evidence**
+## Before Implementation
 
-### Portfolio Case Study
+Create:
 
-Create an approximately **8–12 page** case study.
+- [ ] Stakeholder / use-case definition
+- [ ] Performance requirements
+- [ ] System architecture
+- [ ] Subsystem interfaces
+- [ ] Component trade study
+- [ ] Error / noise budget
+- [ ] Risk analysis
+- [ ] Integration plan
+- [ ] Verification plan
+- [ ] Acceptance criteria
 
-Possible title:
+## During Implementation
 
-> **Systems Engineering of a Software-Intensive Measurement Device: Requirements, Architecture, Risk, and Verification**
+Track:
 
-Suggested structure:
+- [ ] Integration
+- [ ] Debugging
+- [ ] Calibration
+- [ ] Configuration management
+- [ ] Requirement changes
+- [ ] Architecture changes
+- [ ] Test failures
+- [ ] Test evidence
 
-1. Problem
-2. Stakeholder needs
-3. System boundary
-4. Requirements
-5. Architecture
-6. Interfaces
-7. Design trade-off
-8. Risks
-9. Integration
-10. Verification & validation
-11. Results
-12. Lessons learned
+## After Implementation
 
-Clearly state that this is an **educational engineering prototype**, not a certified medical device.
+Complete:
 
-### Deliverable
+- [ ] System verification
+- [ ] Performance assessment
+- [ ] Requirements traceability
+- [ ] Lessons learned
+- [ ] Remaining technical limitations
 
-- [ ] **Complete sanitized systems-engineering portfolio project**
+## Month 6 Deliverable
 
-### Month 6 Retrospective
-
-- Can another engineer understand the system from my documentation?
-- Does every major requirement have verification evidence?
-- Did I make at least one documented system-level trade-off?
-- Which parts would be strongest in an interview?
+- [ ] **Working physics-based hardware/software system**
+- [ ] **Associated engineering artifacts**
 
 ---
 
 # Month 7 — February 2027
 
-## Theme: Turn Competence Into a Candidate Profile
+## Theme: Turn the Work Into Hiring Evidence
 
 **Target workload:** ~7–9 hours/week
 
-The emphasis now shifts from learning toward getting hired.
+Shift from studying toward professional positioning.
 
-## Certification
+## 1. Build the Portfolio Case Study
 
-### If CSEP Eligibility Is Defensible
+Create a concise case study:
 
-- [ ] Advance/complete CSEP application
-- [ ] Secure appropriate references
-- [ ] Continue exam preparation
+> **Systems Engineering of a Physics-Based Measurement System**
 
-### If CSEP Eligibility Is Not Yet Defensible
+Suggested structure:
 
-- [ ] Pursue ASEP
-- [ ] Continue logging qualifying professional SE experience toward future CSEP
+1. Objective
+2. Stakeholder needs
+3. Requirements
+4. Architecture
+5. Interfaces
+6. Trade study
+7. Physics / performance model
+8. Risk
+9. Integration
+10. Verification & validation
+11. Results
+12. Lessons learned
 
-Do not delay job applications until certification is finished.
+Clearly distinguish personal/educational project experience from professional experience.
 
-## Rewrite Professional Positioning
+## 2. Reposition the CV
 
-### CV
+Target positioning:
 
-Shift the headline away from pure engineering management/product management toward something such as:
+> **Systems Engineering | Scientific & Physics-Based Technology**
 
-> **Systems Engineering | Medical Devices | Software-Intensive Systems**
+Avoid locking the professional identity to:
 
-Emphasize MedTrace experience in this sequence:
+> Medical Device Systems Engineer
 
-> **Requirements → Architecture → Risk → V&V → Integration/Deployment → Lifecycle**
+Use professional experience as evidence of:
 
-People management remains relevant but should no longer dominate the story.
+- [ ] Systems lifecycle
+- [ ] Scientific software
+- [ ] Requirements
+- [ ] Risk
+- [ ] V&V
+- [ ] Integration / deployment
+- [ ] Technical leadership
+- [ ] Architecture-level decision making
+- [ ] Cross-functional technical development
 
-### LinkedIn / Professional Narrative
+## 3. Applications
 
-Use a narrative similar to:
+Increase to:
 
-> Physics-trained medical-device professional with 5+ years of experience across software-intensive product development, requirements, V&V, risk, lifecycle processes, and technical leadership, now specializing more formally in systems engineering.
+**2–4 targeted applications/week**
 
-## Networking
+Prioritize jobs with:
 
-Each week:
+- Strong green fit
+- Yellow skills that have now been addressed
+- Few genuine red gaps
 
-- [ ] Contact 2 medical-device systems engineers
-- [ ] Have/contact 1 engineering manager or system architect when possible
-- [ ] Research 3 target companies
-- [ ] Identify relevant jobs before application deadlines become urgent
+## 4. Networking
 
-### Geographic Focus
+Continue:
 
-- [ ] Basque Country
-- [ ] Northern Spain
-- [ ] Remote/hybrid Spain
-- [ ] Selected European remote roles
+- [ ] 2 meaningful contacts/week
+- [ ] Prioritize technical managers
+- [ ] Prioritize system architects
+- [ ] Prioritize Vitoria / Bilbao / San Sebastián ecosystems
+- [ ] Maintain relationships developed during validation
 
-## Begin Applications
-
-Target **2–3 highly relevant applications/week**.
-
-Potential titles:
-
-- [ ] Systems Engineer
-- [ ] Medical Device Systems Engineer
-- [ ] System Development Engineer
-- [ ] Product Systems Engineer
-- [ ] Requirements Engineer
-- [ ] V&V Systems Engineer
-- [ ] Technical Systems Engineer
-- [ ] R&D Systems Engineer
-- [ ] System Architect roles where seniority is plausible
-
-Avoid roles that are actually:
-
-- [ ] Embedded software engineering
-- [ ] Electronics design engineering
-- [ ] Mechanical design engineering
-- [ ] IT systems administration
-
-### Deliverables
+## Month 7 Deliverables
 
 - [ ] Systems-engineering CV
-- [ ] LinkedIn repositioned
-- [ ] Portfolio ready to share
-- [ ] ASEP/CSEP process underway
-- [ ] First targeted applications submitted
+- [ ] Technical portfolio
+- [ ] Interview-ready project
+- [ ] Active targeted applications
+- [ ] Updated skills-gap matrix
 
 ---
 
 # Month 8 — March 2027
 
-## Theme: Run a Real Systems-Engineering Job Search
+## Theme: Run the Transition as a Job Search
 
 **Target workload:** ~7–9 hours/week
 
-Learning becomes secondary.
+Reduce general studying.
 
-### Suggested Weekly Allocation
-
-| Activity | Hours |
-|---|---:|
-| Applications | 3 |
-| Networking | 2 |
-| Interview preparation | 1.5 |
-| Targeted learning / certification | 1–2 |
-
-## Application Target
-
-Submit **3–5 strong applications/week** rather than high-volume generic applications.
-
-### Evaluate Jobs With a Green / Yellow / Red Framework
-
-#### Green — Existing Strengths
-
-- [ ] Medical-device development
-- [ ] Regulated software
-- [ ] Requirements
-- [ ] Risk
-- [ ] V&V
-- [ ] Lifecycle
-- [ ] Cross-functional development
-- [ ] Software systems
-- [ ] Clinical/user environments
-
-#### Yellow — Newly Demonstrable Skills
-
-- [ ] MBSE
-- [ ] SysML
-- [ ] System architecture
-- [ ] Hardware/software interfaces
-- [ ] System integration
-- [ ] Physical instrumentation
-- [ ] Formal SE methods
-
-#### Red — Genuine Specialist Gaps
-
-- [ ] 5+ years PCB design
-- [ ] RF design
-- [ ] Mechanical CAD ownership
-- [ ] FPGA design
-- [ ] Embedded C development
-- [ ] Specialist electronics certification
-
-Apply when a role is predominantly **green + yellow**.
-
-Do not reject yourself simply because one or two yellow items appear in the posting.
-
-## Interview Preparation
-
-Prepare six detailed examples:
-
-- [ ] **Stakeholder need → requirement**
-- [ ] **Requirement → design decision**
-- [ ] **Risk → control → verification**
-- [ ] **Architecture/interface problem**
-- [ ] **Integration/V&V problem**
-- [ ] **System-level trade-off**
-
-Use professional MedTrace examples wherever possible.
-
-Use the portfolio project primarily to demonstrate areas where professional evidence is weaker:
-
-- Physical hardware
-- Formal MBSE
-- SysML
-- Hardware/software integration
-
-## End-of-Plan Target
-
-By **31 March 2027**:
-
-- [ ] Formal SE foundations established
-- [ ] Requirements-engineering competence demonstrated
-- [ ] MBSE/SysML working knowledge demonstrated
-- [ ] Hardware/software integration experience demonstrated
-- [ ] One defensible SE portfolio project complete
-- [ ] CSEP or ASEP underway/completed
-- [ ] Systems-engineering CV complete
-- [ ] Systems-oriented LinkedIn profile complete
-- [ ] 20+ relevant professional contacts
-- [ ] Active targeted application pipeline
-- [ ] Six interview stories prepared
-
----
-
-# Standard Weekly Structure — October Onward
+## Suggested Weekly Allocation
 
 | Activity | Hours/week |
 |---|---:|
-| Formal learning / certification | 2–3 |
-| Hands-on system / portfolio project | 3 |
-| Career / networking / applications | 1–2 |
-| Review + evidence logging | 0.5 |
-| **Total** | **6.5–8.5** |
+| Applications | 2–3 |
+| Networking | 1.5–2 |
+| Interview preparation | 1.5 |
+| Targeted technical learning | 1–2 |
+| Portfolio / project improvement | 1 |
 
-During February and March, shift approximately two hours from learning/project work into applications and interview preparation.
+## Application Target
+
+Submit:
+
+**3–5 high-quality applications/week**
+
+Mid-level roles are explicitly acceptable.
+
+Do not automatically avoid senior roles where seniority comes primarily from:
+
+- [ ] Product lifecycle ownership
+- [ ] Requirements
+- [ ] Stakeholder management
+- [ ] System V&V
+- [ ] Technical coordination
+- [ ] Cross-functional leadership
+- [ ] Product/system development ownership
+
+It is possible to be senior in those dimensions while being newer to quantum or photonics hardware.
+
+## Prepare Six Strong Interview Stories
+
+- [ ] Stakeholder need → system requirement
+- [ ] Requirement → architecture decision
+- [ ] Technical trade-off
+- [ ] Risk → mitigation → verification
+- [ ] Integration failure/problem
+- [ ] Cross-disciplinary technical decision
+
+Use professional experience wherever possible.
+
+Use the personal project primarily for gaps where professional evidence is weaker.
+
+## Month 8 Deliverables
+
+- [ ] Active job pipeline
+- [ ] Interview stories prepared
+- [ ] Portfolio ready
+- [ ] Systems-oriented CV in active use
+- [ ] Clear primary domain
+- [ ] Clear secondary domain
+- [ ] Clear remaining skill gaps
+- [ ] Decision on next 6–12 months based on actual job-search results
 
 ---
 
-# Using RA/QA Consulting to Support the Transition
+# Rule for Months 3–8
 
-Do not treat consulting and systems engineering as two unrelated careers.
+Do **not** study something simply because it appears in this plan.
 
-Where appropriate to the actual engagement, seek work involving:
+Before any substantial learning investment, ask:
+
+> **Which recurring hiring gap identified in August–September does this close?**
+
+If there is no strong answer, skip it.
+
+This applies to:
+
+- [ ] CSEP
+- [ ] ASEP
+- [ ] SysML certification
+- [ ] Qiskit
+- [ ] Electronics courses
+- [ ] Photonics courses
+- [ ] Expensive hardware
+- [ ] Requirements-management tools
+- [ ] MBSE software
+- [ ] Generic certifications
+
+The validation phase determines the curriculum.
+
+---
+
+# CSEP / ASEP Decision Framework
+
+## CSEP
+
+Consider CSEP if:
+
+- [ ] Approximately 60 months of defensible direct SE experience can be documented
+- [ ] Multiple experience areas can be demonstrated
+- [ ] Suitable references are available
+- [ ] Target employers appear to value the credential
+
+## ASEP
+
+Consider ASEP only if:
+
+- [ ] CSEP is not currently defensible
+- [ ] Target roles value formal SE knowledge/certification
+- [ ] The credential adds useful signaling relative to the cost and effort
+
+Do not pursue a certification simply because it exists.
+
+---
+
+# Consulting Integration
+
+RA/QA consulting continues throughout the eight months.
+
+Where client work genuinely overlaps with systems engineering, log it.
+
+Relevant activities may include:
 
 - [ ] Requirements reviews
 - [ ] Requirements traceability
-- [ ] System/software risk
-- [ ] V&V planning
+- [ ] Risk management
+- [ ] Verification planning
+- [ ] Validation planning
 - [ ] Design-change impact analysis
 - [ ] Design reviews
 - [ ] Interface definition
 - [ ] Lifecycle planning
 - [ ] Configuration/change management
-- [ ] Technical file architecture
-- [ ] Supplier development interfaces
+- [ ] Supplier technical interfaces
 - [ ] CAPA investigations involving system causes
+- [ ] Technical file architecture
+- [ ] System/software development planning
 
-After each relevant consulting activity:
+For every relevant engagement:
 
 - [ ] Record what I personally did
-- [ ] Map it to a systems-engineering area
+- [ ] Map it to an SE area
 - [ ] Record approximate duration
 - [ ] Identify permissible evidence
-- [ ] Identify a potential verifier/reference
+- [ ] Identify a possible verifier/reference
 - [ ] Add it to the CSEP Experience Ledger
 
----
-
-# Things Deliberately Not Prioritized
-
-To keep the eight-month objective focused, do **not** make these major priorities during this plan:
-
-- [ ] Quantum computing
-- [ ] Becoming a software engineer
-- [ ] Advanced Python for its own sake
-- [ ] AI specialization
-- [ ] Another master's degree
-- [ ] PMP
-- [ ] Generic product-management certifications
-- [ ] Deep electrical-engineering retraining
-- [ ] Deep mechanical-engineering retraining
-
-These may be valuable later, but they dilute the current objective.
+Do not retain proprietary client information without permission.
 
 ---
 
-# Career Narrative
+# Geographic Search Framework
 
-The intended career story at the end of the plan is:
+## Tier 1 — Vitoria-Gasteiz / Álava
 
-> I already had substantial experience developing complex regulated medical software across requirements, risk, verification and validation, lifecycle management, deployment, architecture-level decisions, and technical leadership. I then deliberately formalized that experience through systems-engineering methods, MBSE, architecture, and physical-system integration so that I could move from leading a major software subsystem toward engineering complete medical-device systems.
+Accept:
+
+- [ ] Onsite
+- [ ] Hybrid
+- [ ] Remote
+
+## Tier 2 — Bilbao / Bizkaia
+
+Accept:
+
+- [ ] Hybrid approximately 1–2 days/week
+- [ ] More frequent onsite temporarily for onboarding or exceptional opportunities
+
+## Tier 3 — San Sebastián / Gipuzkoa
+
+Accept:
+
+- [ ] Similar hybrid arrangement
+- [ ] More frequent onsite temporarily for onboarding or exceptional opportunities
+
+## Tier 4 — Elsewhere
+
+Prefer:
+
+- [ ] Remote
+- [ ] Low-frequency travel
+- [ ] Practical hybrid arrangement
 
 ---
 
-# Progress Dashboard
+# Professional Identity Being Tested
 
-Update monthly.
+Potential positioning:
+
+> **Systems Engineer / Technical Systems Leader — Scientific & Physics-Based Technology**
+
+Supporting narrative:
+
+> Physics and mathematics background, MSc in Physics and Nanotechnology, followed by 5+ years developing complex scientific software products across requirements, architecture, risk, verification and validation, deployment, and technical leadership.
+
+The goal is to build a profile that is credible across multiple technical domains rather than increasingly specialized only in medical devices.
+
+---
+
+# Monthly Progress Dashboard
 
 | Area | Aug | Sep | Oct | Nov | Dec | Jan | Feb | Mar |
 |---|---|---|---|---|---|---|---|---|
-| INCOSE / formal SE | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
-| CSEP evidence ledger | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
-| Requirements | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
-| MBSE / SysML | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
-| Hardware literacy | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
-| Physical prototype | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
-| Portfolio | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
+| Market validation | ⬜ | ⬜ |  |  |  |  |  |  |
+| Job dataset | ⬜ | ⬜ |  |  |  |  |  |  |
 | Networking | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
-| Job applications | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
+| CSEP evidence ledger | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
+| Formal SE learning |  |  | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
+| Requirements |  |  | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
+| Architecture / MBSE |  |  |  | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
+| Domain depth |  |  |  |  | ⬜ | ⬜ | ⬜ | ⬜ |
+| Hardware / physical systems |  |  |  |  | ⬜ | ⬜ | ⬜ | ⬜ |
+| Portfolio project |  |  |  |  |  | ⬜ | ⬜ | ⬜ |
+| Applications |  | ⬜ |  |  |  |  | ⬜ | ⬜ |
+| Interview preparation |  |  |  |  |  |  | ⬜ | ⬜ |
 
 ---
 
@@ -789,15 +1011,19 @@ Copy this section at the end of each month.
 - [ ]
 - [ ]
 
-### What I Learned
+### Strongest Market Signal
 
 -
 
-### Biggest Gap Identified
+### Biggest Skill Gap Identified
 
 -
 
-### Evidence Added to CSEP / SE Ledger
+### Skill Gap That Is Not Worth Pursuing
+
+-
+
+### Evidence Added to Systems-Engineering Ledger
 
 -
 
@@ -805,7 +1031,11 @@ Copy this section at the end of each month.
 
 -
 
-### Job-Market Observation
+### Most Attractive Company / Role Found
+
+-
+
+### Networking Insight
 
 -
 
@@ -815,6 +1045,44 @@ Copy this section at the end of each month.
 
 ---
 
+# Decision Rules
+
+## Continue the Systems-Engineering Transition Aggressively If
+
+- [ ] Multiple attractive roles exist
+- [ ] Existing experience is viewed as relevant
+- [ ] Main gaps are learnable
+- [ ] Mid-level entry is realistic
+- [ ] Geography is workable
+- [ ] The work itself remains attractive after speaking with practitioners
+
+## Modify the Strategy If
+
+- [ ] Photonics is attractive but requires more direct optics work
+- [ ] Quantum opportunities favor solutions/product/system roles over core engineering
+- [ ] A different adjacent sector offers a much cleaner entry
+- [ ] MBSE is less valuable than expected
+- [ ] CSEP has little market value in target companies
+- [ ] Hands-on integration matters more than certification
+
+## Stop or Rethink the Pivot If
+
+- [ ] Most attractive jobs require a PhD or years of specialist experience
+- [ ] Mid-level entry is consistently unavailable
+- [ ] Geography makes the market impractical
+- [ ] Employers do not value existing systems/product experience
+- [ ] The roles available are not actually appealing
+- [ ] The opportunity cost relative to consulting or technical product leadership becomes too high
+
+---
+
 # Definition of Success
 
-This plan is successful if, by the end of March 2027, I can credibly present myself not as a software manager trying to change fields, but as a **medical-device systems engineering candidate with substantial prior lifecycle experience and newly demonstrated formal systems, architecture, MBSE, and hardware/software integration competence**.
+The plan is successful if, by the end of March 2027:
+
+> **I know which physics-heavy systems-engineering market is accessible to me, I know precisely which gaps employers care about, I have closed the highest-value gaps that can realistically be closed, and I can demonstrate those abilities through both professional product-development experience and new hands-on systems work.**
+
+Success is **not** defined as completing a predetermined curriculum.
+
+The first two months are allowed to invalidate or substantially change the remaining six months.
+027, I can credibly present myself not as a software manager trying to change fields, but as a **medical-device systems engineering candidate with substantial prior lifecycle experience and newly demonstrated formal systems, architecture, MBSE, and hardware/software integration competence**.
